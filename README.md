@@ -3,7 +3,7 @@
 ## Aim:
 Our aim is to predict the the total runs in a power play of an cricket match such as IPL, based on a set of features such as cricketer's and bowler's - name, their performance and statistics in previous games, and other features.
 
-Link to [Python notebook - Click here.](IPL Power Play Prediction.ipynb)
+Link to [Python notebook - Click here.](https://github.com/Zain-Saiyed/IPL-power-play-score-prediction/blob/main/IPL%20Power%20Play%20Prediction.ipynb)
 
 
 ### Features  - IPL runs dataset:
@@ -31,5 +31,7 @@ Link to [Python notebook - Click here.](IPL Power Play Prediction.ipynb)
 - other_player_dismissed
 
 <hr>
+
 ---
+
 ***
