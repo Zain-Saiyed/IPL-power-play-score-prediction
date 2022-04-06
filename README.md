@@ -1,7 +1,7 @@
 # IPL-power-play-score-prediction
 
 ## Aim:
-Our aim is to predict the the total runs in a power play of an cricket match such as IPL, based on a set of features such as cricketer's and bowler's - name, their performance and statistics in previous games, and other features.
+Our goal is to estimate the total runs made by a team in a power play of a cricket match, such as the IPL, based on a collection of factors such as cricketer and bowler names, their prior game performance and statistics, and other features.
 
 Link to [Python notebook - Click here.](https://github.com/Zain-Saiyed/IPL-power-play-score-prediction/blob/main/IPL%20Power%20Play%20Prediction.ipynb)
 
